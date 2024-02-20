@@ -16,7 +16,7 @@ namespace ConsoleApp
         public static void Main()
         {
 
-            Console.WriteLinejhuij("Hello World! from Thetips4you sugadinast testas");
+            Console.WriteLine("Hello World! from Thetips4you");
         }
     }
 }
